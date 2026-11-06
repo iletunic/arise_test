@@ -4,3 +4,7 @@
 
 testing inital setup
 
+auto build test
+
+
+
