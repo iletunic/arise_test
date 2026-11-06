@@ -1,4 +1,4 @@
-# ARISE course 1 title 
+# ARISE course 1 title web edited on git
 
 [add-bioschemas file='_data/metadata.yaml']
 
