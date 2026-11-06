@@ -1,0 +1,7 @@
+site_name: courses/course2
+nav:
+    - Description of the course: index.md
+    - Course Content:
+      - "1. title of first chapter": chapters/chapter_01.md
+      - "2. title of second chapter": chapters/chapter_02.md
+      - "References": chapters/references.md
