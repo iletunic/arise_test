@@ -1,4 +1,5 @@
 site_name: Arise testing
+site_url: https://iletunic.github.io/arise_test/
 
 nav:
   - Intro: 'index.md'
