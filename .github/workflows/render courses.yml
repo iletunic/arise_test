@@ -18,4 +18,5 @@ jobs:
           python-version: '3.10'
       - run: |
           pip install -r requirements.txt
+          perl reference_test.pl
           mkdocs gh-deploy --force
