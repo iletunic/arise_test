@@ -1,0 +1,9 @@
+site_name: Introduction to EOSC
+nav:
+  - Description of the course: index.md
+  - Course Content:
+    - "Part I: Why EOSC? History and Context": chapters/chapter_01.md
+    - "Part 2: How Life Sciences contribute to EOSC": chapters/chapter_02.md
+    - "Part 3: Latest developments": chapters/chapter_03.md
+    - References: chapters/references.md
+  - Follow up training: follow_up_training.md

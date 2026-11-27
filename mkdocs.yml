@@ -1,12 +1,9 @@
-site_name: Arise testing
-site_url: https://iletunic.github.io/arise_test/
+site_name: Research infrastructure training
+site_url: https://ricapacity.github.io/RI_training/
 
 nav:
   - Intro: 'index.md'
-  - Courses: 
-    - Course 1: '!include ./courses/course1/mkdocs.yml'
-    - Course 2: '!include ./courses/course2/mkdocs.yml'
-    - Course 3: '!include ./courses/course3/mkdocs.yml'
+  - Courses: '*include ./courses/*/mkdocs.yml'
 
 plugins:
   - monorepo
@@ -28,12 +25,12 @@ theme:
 
 # Repository
 repo_name: iletunic/arise_test
-repo_url: https://github.com/iletunic/arise_test
+repo_url: https://github.com/RIcapacity/RI_training
 edit_uri: edit/main/docs/
 
   
 # Footer
-copyright: copyright here
+copyright: "Tanja Ninkovic, RIcapacity: tanja.ninkovic@ricapacity.com"
 
 markdown_extensions:
   - abbr

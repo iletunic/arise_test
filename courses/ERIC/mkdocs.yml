@@ -1,0 +1,11 @@
+site_name: European Infrastructure Landscape and ERICs
+nav:
+  - Description of the course: index.md
+  - Course Content:
+    - "1. Introduction - what is a research infrastructure": chapters/chapter_01.md
+    - "2. Local small infrastructures": chapters/chapter_02.md
+    - "3. Large scale scientific infrastructures": chapters/chapter_03.md
+    - "4. Pan-European coordination of infrastructures": chapters/chapter_04.md
+    - "5. Exercises and quiz": chapters/chapter_05.md
+    - References: chapters/references.md
+  - Follow up training: follow_up_training.md

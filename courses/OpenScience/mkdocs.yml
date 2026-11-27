@@ -1,0 +1,21 @@
+site_name: Open Access and Open Science principles
+nav:
+  - Description of the course: index.md
+  - Course Content:
+    - "1. Introduction to open science": chapters/chapter_01.md
+    - "2. Open access for scientific publications": chapters/chapter_02.md
+    - "3. Open data and open software": chapters/chapter_03.md
+    - "4. Open access to research infrastructures": chapters/chapter_04.md
+    - "5. Examples of open science in different organisations": chapters/chapter_05.md
+    - "6. Further ideas for exercises": chapters/chapter_06.md
+  - Follow up training: follow_up_training.md
+
+# Chapter 5 uses tags (front matter). To show tag chips and a tag index page,
+# add the tags plugin next to the plugins already in mkdocs.yml:
+#
+# plugins:
+#   - search
+#   - tags
+#
+# Needed markdown extensions (usually already in the template):
+#   admonition, pymdownx.details, pymdownx.superfences, footnotes, tables, attr_list, md_in_html
